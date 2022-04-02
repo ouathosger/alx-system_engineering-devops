@@ -1,1 +1,2 @@
-!:mime School
+#!/bin/bash
+whoami
